@@ -5,7 +5,10 @@
 **Responsable:** Brainiac
 **Estado:** 🟡 Operativa con restricciones
 
----
+## Coorderdenadas
+
+- longitud: 0.674
+- latitud: 23 473
 
 ## Descripción general
 
