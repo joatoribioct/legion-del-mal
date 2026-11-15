@@ -38,7 +38,12 @@
 | Harry Osborn | Amigo de la infancia, hijo de Norman Osborn | 🟡 MEDIO | Su historia familiar con el Duende Verde lo vuelve impredecible. Puede ser un aliado inestable o un tercero útil. |
 | J. Jonah Jameson | Jefe en el Daily Bugle, hostil a Spider-Man | 🟡 MEDIO | No protege a Peter, pero genera titulares que lo exponen. Canal para difundir desinformación. |
 | Flash Thompson | Compañero de instituto y rival | 🟢 BAJO | Poco valor táctico, pero su rivalidad con Peter puede servir para provocar errores. |
-| Tony Stark | Mentor y contacto de los Vengadores | 🟠 ALTO | Peter confía en su tecnología y su criterio. Comprometer a Stark lo deja sin respaldo. |
+| Tony Stark | Mentor y contacto de los Vengadores | 🟠 ALTO | Peter confía en su tecnología y su criterio. Comprometer a Stark lo deja sin respaldo. 
+Gwen Stacy | Primer amor, fallecida | ⚪ Nulo | Su muerte alimenta la culpa de Peter. Útil para manipularlo emocionalmente, no para capturarlo. |
+| Harry Osborn | Amigo de la infancia, hijo de Norman Osborn | 🟡 MEDIO | Su historia familiar con el Duende Verde lo vuelve impredecible. Puede ser un aliado inestable o un tercero útil. |
+| J. Jonah Jameson | Jefe en el Daily Bugle, hostil a Spider-Man | 🟡 MEDIO | No protege a Peter, pero genera titulares que lo exponen. Canal para difundir desinformación. |
+| Flash Thompson | Compañero de instituto y rival | 🟢 BAJO | Poco valor táctico, pero su rivalidad con Peter puede servir para provocar errores. |
+| Tony Stark | Mentor y contacto de los Vengadores | 🟠 ALTO | Peter confía en su tecnología y su criterio. Comprometer a Stark lo deja sin respaldo.
 
 **Punto clave:** Peter no protege su identidad a costa de sus seres queridos. Cualquier presión sobre May, MJ o Ned provoca una reacción inmediata.
 
