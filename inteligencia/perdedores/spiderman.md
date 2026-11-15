@@ -48,5 +48,34 @@ Spider-Man no resistirá la tentación de intervenir. Usarlo como señuelo lejos
 
 ---
 
+## Filmografía (material de vigilancia)
+
+### Saga Sam Raimi (Tobey Maguire)
+
+- Spider-Man (2002)
+- Spider-Man 2 (2004)
+- Spider-Man 3 (2007)
+
+### Saga Marc Webb (Andrew Garfield)
+
+- The Amazing Spider-Man (2012)
+- The Amazing Spider-Man 2: El poder de Electro (2014)
+
+### Saga MCU (Tom Holland)
+
+- Capitán América: Civil War (2016) — aparición
+- Spider-Man: Homecoming (2017)
+- Vengadores: Infinity War (2018) — aparición
+- Vengadores: Endgame (2019) — aparición
+- Spider-Man: Lejos de casa (2019)
+- Spider-Man: Sin camino a casa (2021)
+
+### Animadas (Miles Morales)
+
+- Spider-Man: Un nuevo universo (2018)
+- Spider-Man: Cruzando el Multiverso (2023)
+
+---
+
 _"Es un adolescente con poderes. ¿Qué tan peligroso puede ser?"_ — Venom
 _"Venom, tú tienes su misma historia. Y mira cómo te fue."_ — Lex Luthor
