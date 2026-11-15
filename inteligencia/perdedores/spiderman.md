@@ -26,6 +26,22 @@
 | Es joven e impulsivo | Actúa antes de pensar cuando alguien inocente está en peligro         | ✅ Rehenes civiles como distracción                                   |
 | Lanzarredes          | Dependiente de fluido limitado y de puntos de anclaje                 | ⚠️ Útil solo en espacios abiertos sin estructuras                     |
 
+## Círculo cercano (familia y amigos)
+
+| Persona | Relación con Peter | Nivel de riesgo | ¿Por qué es explotable? |
+| ------- | ------------------ | --------------- | ----------------------- |
+| May Parker | Tía que lo crió | 🔴 CRÍTICO | Es su único familiar vivo. Cualquier amenaza contra ella lo paraliza. |
+| Ben Parker | Tío, fallecido | ⚪ Nulo | No es explotable directamente, pero su lema ("Un gran poder conlleva una gran responsabilidad") guía cada decisión de Peter. |
+| Mary Jane Watson | Pareja y gran amor | 🟠 ALTO | Peter pone su seguridad por encima de la misión. Un secuestro la convierte en rehén perfecto. |
+| Ned Leeds | Mejor amigo, conoce su identidad | 🟠 ALTO | Es la vía más directa a los secretos de Peter. Presionarlo lo obliga a elegir entre amistad y silencio. |
+| Gwen Stacy | Primer amor, fallecida | ⚪ Nulo | Su muerte alimenta la culpa de Peter. Útil para manipularlo emocionalmente, no para capturarlo. |
+| Harry Osborn | Amigo de la infancia, hijo de Norman Osborn | 🟡 MEDIO | Su historia familiar con el Duende Verde lo vuelve impredecible. Puede ser un aliado inestable o un tercero útil. |
+| J. Jonah Jameson | Jefe en el Daily Bugle, hostil a Spider-Man | 🟡 MEDIO | No protege a Peter, pero genera titulares que lo exponen. Canal para difundir desinformación. |
+| Flash Thompson | Compañero de instituto y rival | 🟢 BAJO | Poco valor táctico, pero su rivalidad con Peter puede servir para provocar errores. |
+| Tony Stark | Mentor y contacto de los Vengadores | 🟠 ALTO | Peter confía en su tecnología y su criterio. Comprometer a Stark lo deja sin respaldo. |
+
+**Punto clave:** Peter no protege su identidad a costa de sus seres queridos. Cualquier presión sobre May, MJ o Ned provoca una reacción inmediata.
+
 ## Patrones de comportamiento
 
 - Patrulla Nueva York, sobre todo al atardecer y de noche
