@@ -1,0 +1,54 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Doctor Doom"
+nombre_real: "Victor Von Doom"
+universo: Marvel
+rango: "Consejero arcano"
+estado: activo
+
+perfil:
+  identidad_publica: "Monarca de Latveria. Inmunidad diplomática y un ejército a su disposición."
+  motivacion: "Gobernar el mundo bajo su criterio. Considera que nadie más es digno de hacerlo."
+  frase_celebre: "Doom no pide permiso. Doom decreta."
+
+habilidades:
+  - Magia avanzada (hechizos, teletransporte, portales)
+  - Ingeniería y ciencia de nivel genio (compite con Brainiac)
+  - Armadura propia con arsenal energético y sistemas de vuelo
+  - Teletransporte de hasta 3 personas (ruta de evacuación de la Base Lunar)
+  - Liderazgo político y control total de Latveria
+  - Voluntad inquebrantable
+
+debilidades:
+  - Su ego le impide aceptar órdenes, incluso de Lex Luthor
+  - Obsesión con Reed Richards (puede nublar su juicio)
+  - Su armadura depende de fuentes de energía que pueden ser saboteadas
+  - La magia de alto nivel requiere preparación y tiempo
+
+recursos:
+  - Ejército de Latveria y los Doombots (réplicas robóticas)
+  - Biblioteca arcana privada
+  - Castillo Doom (fortaleza personal con defensas mágicas)
+  - Inmunidad diplomática internacional
+
+rol_en_la_legion: |
+  Doctor Doom es el especialista en magia y escudos místicos de
+  la Legión. Viaja cada dos semanas a la Base Lunar para trabajar
+  en el escudo mágico del satélite Glaciar-1. También sirve como
+  ruta de escape de emergencia: puede teletransportar a tres
+  personas a Latveria. Colabora con la Legión por conveniencia,
+  no por lealtad: "Doom se une a quien le sirva a Doom."
+
+rivalidad_principal: "Fantastic Four (especialmente Reed Richards)"
+guarida_asignada: "Base Lunar (visitas quincenales) / Castillo Doom"
+misiones_completadas: 8
+misiones_fallidas: 1
+
+notas_confidenciales: |
+  Doom es útil pero difícil de controlar. Rechaza cualquier
+  estructura jerárquica y trata a Lex Luthor como un igual.
+  Brainiac desconfía de su magia, que no puede analizar con
+  sus sistemas. Mientras la Legión mantenga a Doom ocupado con
+  proyectos que alimenten su ego, seguirá colaborando.
