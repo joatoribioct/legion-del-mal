@@ -1,0 +1,22 @@
+name: Comunicador de la Legión del Mal
+
+on:
+  workflow_dispatch:
+    inputs:
+        villano:
+            description: 'Nombre del villano que enviará el mensaje?'
+            required: true
+            type: choice
+            options:
+                - Brainiac
+                - Lex Luthor
+                - Darkseid
+                - Joker
+
+jobs:
+  transmitir-mensaje:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
