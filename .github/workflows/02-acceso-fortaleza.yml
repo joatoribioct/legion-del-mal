@@ -1,6 +1,7 @@
 name: 🔑🔑Acceso a Fortaleza Prohibida
 
-on: push
+on: 
+  workflow_dispatch:
 
 jobs:
     acceso-a-la-base:
@@ -13,3 +14,21 @@ jobs:
                 echo "Buscar los archivos de acceso..."
                 ls -la
                 echo "❌ Pero que paso? no hay nada"
+
+            - name: "Brainiac desbloquea el acceso"
+              uses: actions/checkout@v4
+
+            - name: "Ahora si, vamos a ver los planes"
+              run: |
+                echo "Buscar los archivos de acceso..."
+                ls -la
+                echo "✅ Ahora si, ya podemos ver los planes de la fortaleza prohibida"
+                echo ""
+                echo "Planes: "
+                ls planes/
+                echo ""
+                echo "Villanos: "
+                ls villanos/
+                echo ""
+                echo "Inteligencia: "
+                ls inteligencia/
