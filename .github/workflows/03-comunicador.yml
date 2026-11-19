@@ -12,6 +12,22 @@ on:
                 - Lex Luthor
                 - Darkseid
                 - Joker
+        
+        Mensaje:
+            description: 'Mensaje que se enviará al villano'
+            required: true
+            default: 'La mision fue un exito, el plan de la fortaleza prohibida fue descubierto'
+        
+
+        Prioridad:
+            description: 'Nivel de prioridad del mensaje'
+            required: true
+            type: choice
+            options:
+                - 🟢 Normal
+                - 🟡 Alta
+                - 🔴 Urgente
+
 
 jobs:
   transmitir-mensaje:
