@@ -18,6 +18,18 @@ on:
             required: true
             default: 'La mision fue un exito, el plan de la fortaleza prohibida fue descubierto'
         
+        crow_character:
+            description: 'Personaje de Crow'
+            required: true
+            type: choice
+            options:
+                - eyes
+                - ghostbusters
+                - dragon
+                - fox
+                - king
+                - charlie
+
 
         Prioridad:
             description: 'Nivel de prioridad del mensaje'
@@ -47,7 +59,7 @@ jobs:
           echo ""
           echo "Fecha: $(date -u +"%d/%m/%Y - %H:%M UTC")"
           echo " ------ Mensaje ------"
-          cowsay -f eyes "${{ inputs.Mensaje }}"
+          cowsay -f ${{ inputs.crow_character }} "${{ inputs.Mensaje }}"
           echo ""
           echo "--- ${{ inputs.villano }} ---"
           echo "Finalizando transmision..."
