@@ -34,10 +34,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Instalar el tranmisor de legion
+        run: sudo apt-get install -y cowsay
+
       - name: Imprimir inputs
         run: |
-          echo "Inputs:"
+          echo "========================="
+          echo "Transmision intercepatada"
+          echo "========================="
           echo ""
-          echo "Villano: ${{ inputs.villano }}"
-          echo "Nivel: ${{ inputs.Prioridad }}"
-          echo "mensaje: ${{ inputs.Mensaje }}"
+          echo "De : ${{ github.actor }}"
+          echo ""
+          echo "Fecha: $(date -u +"%d/%m/%Y - %H:%M UTC")"
+          echo " ------ Mensaje ------"
+          cowsay -f eyes "${{ inputs.Mensaje }}"
+          echo ""
+          echo "--- ${{ inputs.villano }} ---"
+          echo "Finalizando transmision..."
