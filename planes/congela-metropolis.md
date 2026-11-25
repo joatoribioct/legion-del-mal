@@ -15,3 +15,10 @@ es solares y turbinas eólicas, para mantener la ciudad operativa durante el inv
 
 
    
+
+## Plan de escape
+
+- **Si la Liga de la Justicia llega a Metrópolis:** activar los generadores de tormenta de hielo para bloquear los accesos y retirarse por el túnel subterráneo hacia el submarino de LexCorp.
+- **Si Superman derrite el hielo con su visión de calor:** repliegue inmediato; Magneto y Doctor Doom cubren la retirada.
+- **Si la misión falla por completo:** Lex Luthor culpa a un "fenómeno climático inusual" en rueda de prensa.
+- **Punto de reunión:** Fortaleza Prohibida, 48 horas después de la operación. Coordenadas en los códigos de lanzamiento, NO en este archivo.
